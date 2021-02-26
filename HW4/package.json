@@ -1,0 +1,13 @@
+{
+  "name": "HW4",
+  "version": "1.0.0",
+  "description": "TheInternshipIO Web Crawler & API",
+  "main": "index.js",
+  "author": "Thanadon Teeratadapong",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^7.1.0"
+  }
+}
